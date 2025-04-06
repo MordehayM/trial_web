@@ -37,8 +37,8 @@
       "inpaintedAudio": "data/0.5sec/sample_5/generated_audio_hifi_gan.wav",
       "targetAudio": "data/0.5sec/sample_5/gt_audio_hifi_gan.wav",
       "maskedSpectrogram": "data/0.5sec/sample_5/masked_spec_image.png", 
-      "inpaintedSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80",
-      "targetSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80"
+      "inpaintedSpectrogram": "data/0.5sec/sample_5/generated_spec_image.png",
+      "targetSpectrogram": "data/0.5sec/sample_5/gt_spec_image.png"
     }
   ],
   "1sec": [
