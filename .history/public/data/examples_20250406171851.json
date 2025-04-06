@@ -1,0 +1,58 @@
+{
+  "0.25sec": [
+    {
+      "id": "example1-0.25",
+      "maskedText": "The [MASK] is bright.",
+      "inpaintedText": "The sun is bright.",
+      "targetText": "The sun is bright.",
+      "maskedAudio": "/data/0.25sec/example1_masked.wav",
+      "inpaintedAudio": "/data/0.25sec/example1_unpainted.wav",
+      "targetAudio": "/data/0.25sec/example1_target.wav",
+      "maskedSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80",
+      "inpaintedSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80",
+      "targetSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80"
+    }
+  ],
+  "0.5sec": [
+    {
+      "title": "librispeech_67",
+      "id": "example1-0.5",
+      "maskedText": "The quick brown [MASK] jumps.",
+      "inpaintedText": "The quick brown fox jumps.",
+      "targetText": "The quick brown fox jumps.",
+      "maskedAudio": "/data/0.5sec/sample_5/masked_audio_time.wav",
+      "inpaintedAudio": "/data/0.5sec/sample_5/generated_audio_hifi_gan.wav",
+      "targetAudio": "/data/0.5sec/sample_5/gt_audio_hifi_gan.wav",
+      "maskedSpectrogram": "/data/0.5sec/sample_5/masked_spec_image.png", 
+      "inpaintedSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80",
+      "targetSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80"
+    },
+    {
+      "title": "librispeech_68",
+      "id": "example2-0.5",
+      "maskedText": "The quick brown [MASK] jumps.",
+      "inpaintedText": "The quick brown fox jumps.",
+      "targetText": "The quick brown fox jumps.",
+      "maskedAudio": "/data/0.5sec/sample_5/masked_audio_time.wav",
+      "inpaintedAudio": "/data/0.5sec/sample_5/generated_audio_hifi_gan.wav",
+      "targetAudio": "/data/0.5sec/sample_5/gt_audio_hifi_gan.wav",
+      "maskedSpectrogram": "/data/0.5sec/sample_5/masked_spec_image.png", 
+      "inpaintedSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80",
+      "targetSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80"
+    }
+  ],
+  "1sec": [
+    {
+      "id": "example1-1",
+      "maskedText": "She [MASK] to the store.",
+      "inpaintedText": "She walked to the store.",
+      "targetText": "She walked to the store.",
+      "maskedAudio": "/data/1sec/example1_masked.wav",
+      "inpaintedAudio": "/data/1sec/example1_unpainted.wav",
+      "targetAudio": "/data/1sec/example1_target.wav",
+      "maskedSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80",
+      "inpaintedSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80",
+      "targetSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80"
+    }
+  ]
+}
