@@ -1,0 +1,44 @@
+{
+  "0.25sec": [
+    {
+      "id": "example1-0.25",
+      "maskedText": "The [MASK] is bright.",
+      "unpaintedText": "The sun is bright.",
+      "targetText": "The sun is bright.",
+      "maskedAudio": "/data/0.25sec/example1_masked.wav",
+      "unpaintedAudio": "/data/0.25sec/example1_unpainted.wav",
+      "targetAudio": "/data/0.25sec/example1_target.wav",
+      "maskedSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80",
+      "unpaintedSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80",
+      "targetSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80"
+    }
+  ],
+  "0.5sec": [
+    {
+      "id": "example1-0.5",
+      "maskedText": "The quick brown [MASK] jumps.",
+      "unpaintedText": "The quick brown fox jumps.",
+      "targetText": "The quick brown fox jumps.",
+      "maskedAudio": "/public/data/0.5sec/example1_masked.wav",
+      "unpaintedAudio": "/public/data/0.5sec/sample_5/generated_audio_hifi_gan.wav",
+      "targetAudio": "/public/data/0.5sec/sample_5/example1_target.wav",
+      "maskedSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80",
+      "unpaintedSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80",
+      "targetSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80"
+    }
+  ],
+  "1sec": [
+    {
+      "id": "example1-1",
+      "maskedText": "She [MASK] to the store.",
+      "unpaintedText": "She walked to the store.",
+      "targetText": "She walked to the store.",
+      "maskedAudio": "/data/1sec/example1_masked.wav",
+      "unpaintedAudio": "/data/1sec/example1_unpainted.wav",
+      "targetAudio": "/data/1sec/example1_target.wav",
+      "maskedSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80",
+      "unpaintedSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80",
+      "targetSpectrogram": "https://images.unsplash.com/photo-1699393393011-b6f56c9f3fc4?w=500&auto=format&fit=crop&q=80"
+    }
+  ]
+}
