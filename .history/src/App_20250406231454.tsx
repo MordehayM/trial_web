@@ -133,7 +133,7 @@ function App() {
               <p className="mt-1 text-gray-600">Reconstructing masked speech signals with deep learning</p>
             </div>
             <a
-              href="https://github.com/yourusername/speech-inpainting" // Replace with your GitHub repo link
+              href="https://github.com/yourusername/speech-inpainting"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-4 py-2 bg-gray-800 text-white rounded-lg hover:bg-gray-700 transition-colors"
